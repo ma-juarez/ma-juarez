@@ -2,7 +2,7 @@
 
 ### Biotechnology/Biomedicine/Bioinformatics Student 
 
-My name is Miguel (also known as Miki), I have a Bachelor's Degree in Biotechnology and Master's in Biomedical Sciences. My main area of interest is the pancreas, with specific interest in diabetes. I like the mixx of experimental and computational approach.
+My name is Miguel (also known as Miki), I have a Bachelor's Degree in Biotechnology and Master's in Biomedical Sciences. My main area of interest is the pancreas, with specific interest in diabetes. I like the mix of experimental and computational approach.
 
 
 ### Main Technologies
