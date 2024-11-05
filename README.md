@@ -1,6 +1,6 @@
 # Hi, my name is Miguel 👋
 
-### Biotechnology/Biomedicine/Bioinformatics Student 
+### PhD Student in Bioinformatics 🖥️
 
 My name is Miguel (also known as Miki), I have a Bachelor's Degree in Biotechnology and Master's in Biomedical Sciences. My main area of interest is the pancreas, with specific interest in diabetes. I like the mix of experimental and computational approach.
 
@@ -41,7 +41,8 @@ My name is Miguel (also known as Miki), I have a Bachelor's Degree in Biotechnol
 ### Contact Information 
 <ul>
     <li> Name: Miguel Ángel Juárez Garzón </li>
-    <li> E-mail: m.juarez.garzon@gmail.com </li>
+    <li> Work E-mail: miguel.garzon@uib.no </li>
+    <li> Personal E-mail: m.juarez.garzon@gmail.com </li>
 </ul>
 
 
