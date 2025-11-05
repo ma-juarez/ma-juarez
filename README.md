@@ -8,6 +8,7 @@ My name is Miguel (also known as Miki), I have a Bachelor's Degree in Biotechnol
 #### Preprints
 
 #### Master Thesis
+Master Thesis for the Master's in Biomedicine at the university of Bergen. https://bora.uib.no/bora-xmlui/handle/11250/3072768
 
 ### Main Technologies
 
